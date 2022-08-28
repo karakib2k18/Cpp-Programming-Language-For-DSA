@@ -1,15 +1,15 @@
 ```
 
-Lecture 4: Patterns 2 START HERE
+Lecture 5: Patterns 2   START HERE
 
 ```
 
-# ##Lecture 4: Patterns 2
+# ##Lecture 5: Patterns 2  
 
 ---
 
-//============>>>>>>>>>> Lecture 4: Patterns 2
-[Lecture 4: Patterns 2 Notes.pdf](https://github.com/karakib2k18/Cpp-Programming-Language-For-DSA/files/9434770/Lecture.4.Patterns.2.Notes.pdf)
+//============>>>>>>>>>> Lecture 5: Patterns 2  
+[Lecture 5: Patterns 2   Notes.pdf](https://github.com/karakib2k18/Cpp-Programming-Language-For-DSA/files/9434770/Lecture.4.Patterns.2.Notes.pdf)
 
 ---
 
@@ -501,6 +501,6 @@ int main(){
 
 ```
 
-Lecture 4: Patterns 2 END HERE
+Lecture 5: Patterns 2   END HERE
 
 ```
